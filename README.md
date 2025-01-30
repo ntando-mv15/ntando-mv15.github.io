@@ -35,7 +35,10 @@ Dedicated to continuous learning and innovation in cloud technologies.
 ## 📜 Certifications  
 - AWS Cloud Practitioner  
 - Microsoft Azure Fundamentals (AZ-900)  
-- SAFe for Teams  
+- SAFe for Teams
+- AWS ReStart Program
+- Coursera: AWS Fundamentals
+- Coursera: Cloud Practitioner Essentials
 
 ---
 
