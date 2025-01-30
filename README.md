@@ -2,7 +2,7 @@
 
 Hi, I'm **Ntando Mvubu**, a passionate **Junior Cloud & DevOps Engineer** with hands-on experience in AWS, Azure, Terraform, CI/CD, and containerization. I love working with **cloud technologies**, automating infrastructure, and solving DevOps challenges.  
 
-Dedicated to continuous learning and innovation in cloud technologies.\
+Dedicated to continuous learning and innovation in cloud technologies.
 
 ---
 
