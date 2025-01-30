@@ -43,6 +43,8 @@ Dedicated to continuous learning and innovation in cloud technologies.
 ---
 
 ## 📫 Connect with Me  
-💼 [GitHub](https://github.com/ntando-mv)  
-🔗 [LinkedIn](#) *(LInkedin.com/in/ntando-mvubu-3280111aa/)*  
+💼 [GitHub](https://github.com/ntando-mv15/)
+
+🔗 [LinkedIn](https://LInkedin.com/in/ntando-mvubu-3280111aa/)
+
 📧 **Email:** ntando.mv15@gmail.com  
